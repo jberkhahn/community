@@ -1903,13 +1903,13 @@ sigs:
     - github: jberkhahn
       name: Jonathan Berkhahn
       company: IBM
+    emeritus_leads:
     - github: jboyd01
       name: Jay Boyd
       company: Red Hat
     - github: kibbles-n-bytes
       name: Michael Kibbe
       company: Google
-    emeritus_leads:
     - github: arschles
       name: Aaron Schlesinger
       company: Microsoft
@@ -1937,21 +1937,6 @@ sigs:
   contact:
     slack: sig-service-catalog
     mailing_list: https://groups.google.com/forum/#!forum/kubernetes-sig-service-catalog
-    teams:
-    - name: sig-service-catalog-api-reviews
-      description: API Changes and Reviews
-    - name: sig-service-catalog-bugs
-      description: Bug Triage and Troubleshooting
-    - name: sig-service-catalog-feature-requests
-      description: Feature Requests
-    - name: sig-service-catalog-misc
-      description: General Discussion
-    - name: sig-service-catalog-pr-reviews
-      description: PR Reviews
-    - name: sig-service-catalog-proposals
-      description: Design Proposals
-    - name: sig-service-catalog-test-failures
-      description: Test Failures and Triage
   subprojects:
   - name: service-catalog
     owners:
